@@ -238,7 +238,7 @@ html,body{
     font-size: 1.2rem;
 }
 
-.img-container::after{ /* for overlay designing part */
+.img-container::after{ 
     content: "";
     display: block;
     position: absolute;
